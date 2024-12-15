@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 Sobre mí:
-- 🎓 Ingeniero en Software
+- 🎓 4 año  Ingeniero en Software
 - 🔭 Actualmente trabajando en proyectos Full Stack
 - 💡 Me encanta aprender nuevas tecnologías y enfrentar retos.
 
