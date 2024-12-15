@@ -9,23 +9,24 @@ Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** 
 ---
 
 ## 🛠️ **Technologies I Work With:**
-### **Frontend**:
-- React.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
 
-### **Backend**:
-- Node.js, PHP, Python, Java
+### **Frontend**:  
+💻 React.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
 
-### **Programming Languages**:
-- TypeScript, C++, JavaScript, Python
+### **Backend**:  
+⚙️ Node.js, PHP, Python, Java
 
-### **Databases**:
-- MySQL, MongoDB, PostgreSQL, SQL Server
+### **Programming Languages**:  
+📝 TypeScript, C++, JavaScript, Python
 
-### **Infrastructure**:
-- Docker, NGINX, Linux, AWS, Azure, Kubernetes
+### **Databases**:  
+💾 MySQL, MongoDB, PostgreSQL, SQL Server
 
-### **Tools**:
-- Git, Visual Studio Code, Figma, Laravel
+### **Infrastructure**:  
+🌐 Docker, NGINX, Linux, AWS, Azure, Kubernetes
+
+### **Tools**:  
+🛠️ Git, Visual Studio Code, Figma, Laravel
 
 ---
 
