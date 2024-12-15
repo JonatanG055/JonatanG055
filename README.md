@@ -14,7 +14,7 @@ Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** 
 💻 React.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
 
 ### **Backend**:  
-⚙️ Node.js, PHP, Python, Java
+⚙️ Node.js, PHP, Python, Java, **Laravel**
 
 ### **Programming Languages**:  
 📝 TypeScript, C++, JavaScript, Python
@@ -26,7 +26,7 @@ Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** 
 🌐 Docker, NGINX, Linux, AWS, Azure, Kubernetes
 
 ### **Tools**:  
-🛠️ Git, Visual Studio Code, Figma, Laravel
+🛠️ Git, Visual Studio Code, Figma
 
 ---
 
