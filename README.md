@@ -4,27 +4,43 @@
   <img src="https://github.com/JonatanG055/imagenes-repo/blob/main/likedin.png?raw=true" alt="Jonatan Guevara LinkedIn" width="300px">
 </p>
 
-¡Hola! Soy un desarrollador Full Stack apasionado por crear aplicaciones robustas y escalables. 🚀
+Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** and **scalable** applications. 🚀
 
 ---
 
-## 🛠️ Tecnologías que uso:
-- **Frontend:** React.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Backend:** Node.js, PHP, Python, Java
-- **Lenguajes de Programación:** TypeScript, C++, JavaScript, Python
-- **Bases de Datos:** MySQL, MongoDB, PostgreSQL
-- **Infraestructura:** Docker, NGINX, Linux, AWS
-- **Herramientas:** Git, Visual Studio Code, Figma
+## 🛠️ **Technologies I Work With:**
+### **Frontend**:
+- React.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
+
+### **Backend**:
+- Node.js, PHP, Python, Java
+
+### **Programming Languages**:
+- TypeScript, C++, JavaScript, Python
+
+### **Databases**:
+- MySQL, MongoDB, PostgreSQL, SQL Server
+
+### **Infrastructure**:
+- Docker, NGINX, Linux, AWS, Azure, Kubernetes
+
+### **Tools**:
+- Git, Visual Studio Code, Figma, Laravel
 
 ---
 
-## 🌟 Sobre mí:
-- 🎓 4 año  Ingeniero en Software
-- 🔭 Actualmente trabajando en proyectos Full Stack
-- 💡 Me encanta aprender nuevas tecnologías y enfrentar retos.
+## 🌟 **About Me:**
+- 🎓 **4th Year** Software Engineering student
+- 🔭 Currently working on exciting **Full Stack** projects
+- 💡 Always eager to **learn new technologies** and face new challenges!
 
 ---
 
-## 🌐 Conéctate conmigo:
-- [LinkedIn](https://www.linkedin.com/in/jonataneguevara)
-- [Portafolio](https://tu-portafolio.com)
+## 🌐 **Connect with Me:**
+- **[LinkedIn](https://www.linkedin.com/in/jonataneguevara)** - Let’s connect!
+- **[Portfolio](https://your-portfolio.com)** - Check out my work.
+- 📧 **Email:** [jonataneliasguevarachicas129@gmail.com](mailto:jonataneliasguevarachicas129@gmail.com)
+
+---
+
+✨ **Let’s build the future together!**
