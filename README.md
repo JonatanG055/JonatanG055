@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Jonatan Guevara - Full Stack Developer 🌐
 
-<!--
-**JonatanG055/JonatanG055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/JonatanG055/imagenes-repo/blob/main/likedin.png?raw=true" alt="Jonatan Guevara LinkedIn" width="300px">
+</p>
 
-Here are some ideas to get you started:
+¡Hola! Soy un desarrollador Full Stack apasionado por crear aplicaciones robustas y escalables. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías que uso:
+- **Frontend:** React.js, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Backend:** Node.js, PHP, Python, Java
+- **Lenguajes de Programación:** TypeScript, C++, JavaScript, Python
+- **Bases de Datos:** MySQL, MongoDB, PostgreSQL
+- **Infraestructura:** Docker, NGINX, Linux, AWS
+- **Herramientas:** Git, Visual Studio Code, Figma
+
+---
+
+## 🌟 Sobre mí:
+- 🎓 Ingeniero en Software
+- 🔭 Actualmente trabajando en proyectos Full Stack
+- 💡 Me encanta aprender nuevas tecnologías y enfrentar retos.
+
+---
+
+## 🌐 Conéctate conmigo:
+- [LinkedIn](https://www.linkedin.com/in/jonataneguevara)
+- [Portafolio](https://tu-portafolio.com)
