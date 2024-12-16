@@ -57,10 +57,35 @@ Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** 
 
 ---
 
-## 🌟 **About Me:**
+## 📊 **Featured Project: System Notes Book**
+
+System Notes Book es una aplicación web moderna desarrollada para organizar notas de manera sencilla y eficiente. 
+
+System Note
+### 🚀 **Tecnologías Utilizadas:**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+
+</
+</p>
+
+### 🌐 **Acceso a la Aplicación:**
+[**System Notes Book - Ingresar**](https://systemnotesbook.netlify.app/login)  
+**Usuario:** jonatan.g055.dev@gmail.com  
+**Contraseña:** J0n@t4nG055!Pr0gr@mm3r#2024
+
+Para acceder rápidamente, puedes copiar y pegar el link directo.
+
+---
+
+## ✨ **About Me:**
 - 🎓 **4th Year** Software Engineering student  
-- 🔭 Currently working on exciting **Full Stack** projects  
-- 💡 Always eager to **learn new technologies** and face new challenges!  
+- 🔄 Actualmente trabajando en emocionantes proyectos **Full Stack**
+- 💡 Siempre dispuesto a **aprender nuevas tecnologías** y enfrentar nuevos retos.
 
 ---
 
