@@ -59,7 +59,7 @@ Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** 
 
 ## 📊 **Featured Project: System Notes Book**
 
-System Notes Book es una aplicación web moderna desarrollada para organizar notas de manera sencilla y eficiente. 
+System Notes Book It is a modern web application developed to organize notes in a simple and efficient way. 
 
 System Note
 ### 🚀 **Tecnologías Utilizadas:**
@@ -73,12 +73,12 @@ System Note
 </
 </p>
 
-### 🌐 **Acceso a la Aplicación:**
+### 🌐 **Access to the Application:**
 - [**System Notes Book - Ingresar**](https://systemnotesbook.netlify.app/)  
   **Usuario:** `jonatan.g055.dev@gmail.com`  
   **Contraseña:** J0n@t4nG055!Pr0gr@mm3r#2024
 
-Para acceder rápidamente, puedes copiar y pegar el link directo.
+To access quickly, you can copy and paste the direct link
 
 ---
 
