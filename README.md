@@ -76,7 +76,7 @@ System Note
 ### 🌐 **Acceso a la Aplicación:**
 - [**System Notes Book - Ingresar**](https://systemnotesbook.netlify.app/)  
   **Usuario:** `jonatan.g055.dev@gmail.com`  
-  **Contraseña:** `J0n@t4nG055!Pr0gr@mm3r#2024
+  **Contraseña:** J0n@t4nG055!Pr0gr@mm3r#2024
 
 Para acceder rápidamente, puedes copiar y pegar el link directo.
 
