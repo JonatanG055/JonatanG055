@@ -1,7 +1,7 @@
 # 👨‍💻 Jonatan Guevara - Full Stack Developer 🌐
 
 <p align="center">
-  <img src="https://github.com/JonatanG055/imagenes-repo/blob/main/likedin.png?raw=true" alt="Jonatan Guevara LinkedIn" width="300px">
+  <img src="https://github.com/JonatanG055/imagenes-repo/blob/master/githubperfil.gif?raw=true" alt="Jonatan Guevara LinkedIn" width="300px">
 </p>
 
 Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** and **scalable** applications. 🚀  
