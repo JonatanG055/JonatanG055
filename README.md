@@ -90,8 +90,9 @@ To access quickly, you can copy and paste the direct link
 ---
 
 ## 🌐 **Connect with Me:**
-- **[LinkedIn](https://www.linkedin.com/in/jonataneguevara)** - Let’s connect!  
-- **[Portfolio]([https://your-portfolio.com](https://portafoliodevely.netlify.app))** - Check out my work.  
+- **[LinkedIn](https://www.linkedin.com/in/jonataneguevara)** - Let’s connect!
+- **[Portfolio](https://portafoliodevely.netlify.app)** - Check out my work.
+  
 - 📧 **Email:** [jonataneliasguevarachicas129@gmail.com](mailto:jonataneliasguevarachicas129@gmail.com)  
 
 ---
