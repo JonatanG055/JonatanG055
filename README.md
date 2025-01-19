@@ -57,11 +57,32 @@ Welcome! I'm a passionate Full Stack Developer dedicated to building **robust** 
 
 ---
 
+## 📊 **Featured Project: TaskManager**
+
+TaskManager is a full-stack web application designed to manage tasks efficiently. It allows users to add, update, delete tasks, set reminders, and track progress.
+
+### 🚀 **Tecnologías Utilizadas:**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### 🌐 **Access to the Application:**
+- [**Frontend TaskManager - Ingresar**](https://frontendtaskmanager.netlify.app/)  
+  **Usuario:** `JonatanTechMaster`  
+  **Contraseña:** `Gp7$zQ2!vL*P8uWm`
+
+To access quickly, you can copy and paste the direct link.
+
+---
+
 ## 📊 **Featured Project: System Notes Book**
 
-System Notes Book It is a modern web application developed to organize notes in a simple and efficient way. 
+System Notes Book is a modern web application developed to organize notes in a simple and efficient way.
 
-System Note
 ### 🚀 **Tecnologías Utilizadas:**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -69,32 +90,30 @@ System Note
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
-</
 </p>
 
 ### 🌐 **Access to the Application:**
 - [**System Notes Book - Ingresar**](https://systemnotesbook.netlify.app/)  
   **Usuario:** `jonatan.g055.dev@gmail.com`  
-  **Contraseña:** J0n@t4nG055!Pr0gr@mm3r#2024
+  **Contraseña:** `J0n@t4nG055!Pr0gr@mm3r#2024`
 
-To access quickly, you can copy and paste the direct link
+To access quickly, you can copy and paste the direct link.
 
 ---
 
 ## ✨ **About Me:**
 - 🎓 **4th Year** Software Engineering student  
-- 🔄 Actualmente trabajando en emocionantes proyectos **Full Stack**
-- 💡 Siempre dispuesto a **aprender nuevas tecnologías** y enfrentar nuevos retos.
+- 🔄 Currently working on exciting **Full Stack** projects  
+- 💡 Always eager to **learn new technologies** and take on new challenges.
 
 ---
 
 ## 🌐 **Connect with Me:**
 - **[LinkedIn](https://www.linkedin.com/in/jonataneguevara)** - Let’s connect!
 - **[Portfolio](https://portafoliodevely.netlify.app)** - Check out my work.
-  
+
 - 📧 **Email:** [jonataneliasguevarachicas129@gmail.com](mailto:jonataneliasguevarachicas129@gmail.com)  
 
 ---
 
-✨ **Let’s build the future together!** 🚀  
+✨ **Let’s build the future together!** 🚀
