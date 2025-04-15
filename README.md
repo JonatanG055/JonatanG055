@@ -1,4 +1,4 @@
-# 👨‍💻 Jonatan Guevara - Full Stack Developer 🌐
+# 👨‍💻 Jonatan Guevara - Full Stack Developer & Software Architect 🌐
 
 <p align="center">
   <img src="https://github.com/JonatanG055/imagenes-repo/blob/master/githubperfil.gif?raw=true" alt="Jonatan Guevara LinkedIn" width="300px">
