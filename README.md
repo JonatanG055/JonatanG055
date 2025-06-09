@@ -116,4 +116,4 @@ To access quickly, you can copy and paste the direct link.
 
 ---
 
-✨ **Let’s build the future togetherr!** 🚀
+✨ **Let’s build the future together!** 🚀
